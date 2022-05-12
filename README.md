@@ -10,3 +10,5 @@
   <li>Parcourir les l'arbre d'Huffman grâce aux bits (0 = Noeud gauche, 1 = Noeud droit) jusqu'à tomber sur un caractere</li>
   <li>En associant les caractères, on à décodé le message</li>
 </ul>
+
+<p> Pour une description plus détaillée, veuillez consulter le document <code>sujet.pdf</code> présent dans le répertoire.
